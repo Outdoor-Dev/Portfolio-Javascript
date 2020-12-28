@@ -2,8 +2,9 @@
 import "bootstrap";
 import "./style.css";
 
-import "./assets/img/rigo-baby.jpg";
-import "./assets/img/4geeks.ico";
+import "./assets/img/lake.png";
+import "./assets/img/mountain.png";
+import "./assets/img/boyfriend.jpg";
 
 window.onload = function() {
   console.log("Hello Rigo from the console!");
