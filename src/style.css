@@ -59,7 +59,7 @@ video {
   position: relative;
   font-size: 10em;
   z-index: 1;
-  margin-top: -250px;
+  margin-top: -300px;
   -webkit-text-stroke: 1px black;
 }
 
