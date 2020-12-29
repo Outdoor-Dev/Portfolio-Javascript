@@ -6,6 +6,7 @@
   padding: 0;
   font-family: "Anton", sans-serif;
 }
+
 body {
   background: black;
   min-height: 1460px;
@@ -67,10 +68,10 @@ video {
   font-size: 100px;
 }
 
-h1 {
-  font-size: 170px;
-  margin-top: 100px;
-}
 .buttons {
   margin-top: 80px;
+}
+h1 {
+  font-size: 150px;
+  margin-top: 50px;
 }
