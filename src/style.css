@@ -9,7 +9,7 @@
 
 body {
   background: black;
-  min-height: 1350px;
+  min-height: 1500px;
 }
 
 section {
@@ -85,11 +85,9 @@ section {
     border-color: transparent;
   }
 }
-
 .btn {
   font-size: 100px;
 }
-
 .buttons {
   margin-top: 80px;
 }
