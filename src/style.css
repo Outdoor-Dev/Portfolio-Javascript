@@ -21,6 +21,15 @@ section {
   justify-content: center;
   align-items: center;
 }
+section:before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  background: linear-gradient(to top, black, transparent);
+  z-index: 10000;
+}
 
 .lake {
   position: absolute;
